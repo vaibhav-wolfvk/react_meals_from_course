@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_meals_from_course/static/css/main.75fc5847.chunk.css",
+    "main.js": "/react_meals_from_course/static/js/main.771367f7.chunk.js",
+    "main.js.map": "/react_meals_from_course/static/js/main.771367f7.chunk.js.map",
+    "runtime-main.js": "/react_meals_from_course/static/js/runtime-main.4ba99252.js",
+    "runtime-main.js.map": "/react_meals_from_course/static/js/runtime-main.4ba99252.js.map",
+    "static/js/2.19068f9e.chunk.js": "/react_meals_from_course/static/js/2.19068f9e.chunk.js",
+    "static/js/2.19068f9e.chunk.js.map": "/react_meals_from_course/static/js/2.19068f9e.chunk.js.map",
+    "index.html": "/react_meals_from_course/index.html",
+    "static/css/main.75fc5847.chunk.css.map": "/react_meals_from_course/static/css/main.75fc5847.chunk.css.map",
+    "static/js/2.19068f9e.chunk.js.LICENSE.txt": "/react_meals_from_course/static/js/2.19068f9e.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/react_meals_from_course/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba99252.js",
+    "static/js/2.19068f9e.chunk.js",
+    "static/css/main.75fc5847.chunk.css",
+    "static/js/main.771367f7.chunk.js"
+  ]
+}
